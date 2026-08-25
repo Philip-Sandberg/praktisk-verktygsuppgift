@@ -1,0 +1,4 @@
+jag använde först pwd för att se var jag var i filsystemet.
+Sedan använde jag: mkdir "intro-kurs" för att skapa en mapp som hetter intro-kurs.
+Efter det använde jag: cd intro-kurs för att komma in i mappen där jag repeterade förra steget för att skapa en projekt mapp.
+Sen gick jag in i den mappen med cd och skrev därefter: touch mina-bash-kommandon.txt för att skapa filen jag skriver i.
